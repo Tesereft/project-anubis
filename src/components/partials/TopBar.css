@@ -1,0 +1,14 @@
+.topbar-container {
+    top: 0;
+    background-color: var(--purple);
+    height: 55px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    -webkit-user-select: none;      
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

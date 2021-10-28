@@ -1,15 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import Sidebar from './components/partials/Sidebar'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          This project is setted by Tesereft Project
-        </p>
-      </header>
-    </div>
+    <Sidebar/>
   );
 }
 
